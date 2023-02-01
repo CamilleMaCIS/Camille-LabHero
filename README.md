@@ -9,3 +9,6 @@ You should pass all of the tests in the HeroTester class (provided).
 
 ![image](https://user-images.githubusercontent.com/57818506/215637295-09f9bb0d-214a-442e-97de-6e396d056c92.png)
 
+Name: Camille
+
+Partner: None
